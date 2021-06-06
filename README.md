@@ -1,4 +1,4 @@
 # TESLA-HOMEPAGE
 
-<img src = "GIF/tesla.gif"  > 
+<img src = "GIF/20210602_183532.gif"  > 
 
